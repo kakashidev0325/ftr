@@ -10,7 +10,7 @@
     tiktok: '#',
     instagram: '#',
     reddit: '#',
-    contractAddress: 'Coming Soon',
+    contractAddress: 'EerxgTnkL6KCNjn8uKMby7ZR8zh91xftS3WFethopump',
     officialEmail: '',
     ...(window.FTR_CONFIG || {})
   };
@@ -153,7 +153,7 @@
       'faq.safe.q': 'Is $FTR a safe investment?',
       'faq.safe.a': 'Crypto is risky. Always do your own research and never spend more than you can afford to lose.',
       'faq.contract.q': 'Where can I see the mint?',
-      'faq.contract.a': 'The official mint is shown in the hero and the footer. It reads Coming Soon until the Solana mint is published. Always match it before you trade.',
+      'faq.contract.a': 'The official mint is shown in the hero and the footer. Always match it before you trade.',
       'faq.fortune.q': 'Why the cardboard sign?',
       'faq.fortune.a': 'Because the car says 100% legit. The sign is the joke. The tape is the rest of the joke.',
       'faq.abundance.q': 'Is this a real car?',
@@ -303,7 +303,7 @@
       'faq.safe.q': '$FTR 是安全投资吗？',
       'faq.safe.a': '加密资产有风险。请自行研究，不要投入超过自己承受能力的资金。',
       'faq.contract.q': '在哪里查看铸币地址？',
-      'faq.contract.a': '官方铸币地址显示在首页和页脚。Solana 地址公布前会显示 Coming Soon。交易前请始终核对。',
+      'faq.contract.a': '官方铸币地址显示在首页和页脚。交易前请始终核对。',
       'faq.fortune.q': '为什么是纸板？',
       'faq.fortune.a': '因为车上写着 100% legit。牌子是玩笑，胶带是玩笑的另一半。',
       'faq.abundance.q': '这是一辆真车吗？',

@@ -9,6 +9,6 @@ window.FTR_CONFIG = {
   tiktok: '#',
   instagram: '#',
   reddit: '#',
-  contractAddress: 'Coming Soon',
+  contractAddress: 'EerxgTnkL6KCNjn8uKMby7ZR8zh91xftS3WFethopump',
   officialEmail: ''
 };
